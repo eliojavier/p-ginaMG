@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa3fe368-786b-4806-948f-a99cd5d58050" name="MGIdeas" url="http://mgideas.net">
+        <fileTransfer host="mgideas.net" port="21" rootFolder="/public_html/mgnew2" password="dfcfdfc7dfcfdfcddfcfdf8cdfe3dfcedfcfdfcbdfd9df9bdf98" username="mgideasn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
